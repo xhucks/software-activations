@@ -1,7 +1,11 @@
 [
   {
     "name": "BSP Scout Shop",
-    "module": "sales",
-    "isActive": true
-  }
+    "modules": {
+      [
+        "name": "sales",
+        "isDisabled": false
+      ]
+    }
+  }  
 ]
