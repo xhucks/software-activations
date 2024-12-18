@@ -4,7 +4,7 @@
     "modules": [
       {
         "name": "sales",
-        "isActive": true
+        "isActive": false
       }
     ]
   }
